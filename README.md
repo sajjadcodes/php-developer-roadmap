@@ -60,6 +60,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | SQL Tutorial - Full Database Course for Beginners      | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
 | PHP MySql Tutorial                                     | article| https://www.mysqltutorial.org/php-mysql/     |
 | PHP MySql Tutorial                                     | article| https://www.w3schools.com/php/php_mysql_intro.asp |
+| MySql tutorial                                         | article| https://www.sqlservertutorial.net/
 
 ### Version Control System (Git & Github)
 | Resource Name                                 |Duration| Resource                                     |
@@ -114,6 +115,12 @@ This section is in under development
 | APIs for Beginners - How to use an API (Full Course / Tutorial)   | 2h 19m | https://youtu.be/GZvSYJDk-us |
 | Build PHP REST API From Scratch                                   | 1h 16m | https://www.youtube.com/watch?v=OEWXbpUMODk&list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo |
 
+### Learn Existing Popular PHP based CMS
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| WordPress Theme Development                                | article|https://developer.wordpress.org/themes/getting-started/ |
+| WordPress Plugin Development                               | Article|https://developer.wordpress.org/plugins/intro/ |
+| Drupal                                                     | Article|https://www.drupal.org/docs/develop|
 
 ### Learn Existing Framework
 | Resource Name                                              |Duration| Resource                     |
